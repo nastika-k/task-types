@@ -29,4 +29,5 @@ export function getPersons(): Person[];
    - gender - 'male' или 'female'
    - company- строка
  */
+
 export function personToString(person: Person | Employee): string;
